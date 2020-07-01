@@ -414,3 +414,4 @@ C:\Users\Mitul\Documents\BooklistRazor\BooklistRazor\bin\Debug\netcoreapp3.1\zh-
 C:\Users\Mitul\Documents\BooklistRazor\BooklistRazor\obj\Debug\netcoreapp3.1\BooklistRazor.csproj.CoreCompileInputs.cache
 C:\Users\Mitul\Documents\BooklistRazor\BooklistRazor\obj\Debug\netcoreapp3.1\BooklistRazor.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Mitul\Documents\BooklistRazor\BooklistRazor\obj\Debug\netcoreapp3.1\BooklistRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mitul\Documents\BooklistRazor\BooklistRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
