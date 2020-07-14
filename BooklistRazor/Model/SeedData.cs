@@ -27,7 +27,7 @@ namespace BooklistRazor.Model
                         Name = "When Harry Met Sally",
                         //ReleaseDate = DateTime.Parse("1989-2-12"),
                         Author = "Romantic Comedy",
-                        ISBN = "7.99M"
+                        ISBN = "Deafault"
                     },
 
                     new Book
@@ -35,7 +35,7 @@ namespace BooklistRazor.Model
                         Name = "Ghostbusters ",
                         //ReleaseDate = DateTime.Parse("1984-3-13"),
                         Author = "Comedy",
-                        ISBN = "dfdsfd"
+                        ISBN = "Deafault"
                     },
 
                     new Book
@@ -43,7 +43,7 @@ namespace BooklistRazor.Model
                         Name = "Ghostbusters 2",
                         //ReleaseDate = DateTime.Parse("1986-2-23"),
                         Author = "Comedy",
-                        ISBN = "dfdfdfd"
+                        ISBN = "Deafault"
                     }
 
 
